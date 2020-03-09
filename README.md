@@ -21,7 +21,10 @@ Or install it yourself as:
 
 ## Usage
 Nba2kMe('shooter') #returns 'Stephen Curry GSW Overall 3pt Rating = 99'
+
 Nba2kme('center')  #returns 'Nikola Jokic DEN Overall Rating = 91'
+
+
 Nba2kme('center')('more") #returns 'Visit -  www.2kratings.com/Nikola-Jokic  For more percise attributes'
 
 ## Development
