@@ -5,19 +5,15 @@ This CLI application is intended for New or Existing NBA2k players. The sole pur
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Visit https://github.com/vincentservio/Nba2kMe
 
-```ruby
-gem 'nba2k_me'
-```
+to clone CLI application 
+
 
 And then execute:
 
     $ bundle install
 
-Or install it yourself as:
-
-    $ gem install nba2k_me
 
 ## Usage
 Nba2kMe('shooter') #returns 'Stephen Curry GSW Overall 3pt Rating = 99'
